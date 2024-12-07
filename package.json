@@ -1,0 +1,19 @@
+{
+  "name": "bhargav",
+  "version": "1.0.0",
+  "description": "Init package",
+  "main": "app.js",
+  "scripts": {
+    "start": "node p2/app.js"
+  },
+  "author": "Bhargav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.4",
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0"
+  }
+}

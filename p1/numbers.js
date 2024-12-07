@@ -1,0 +1,10 @@
+let x = 100;
+let y = "10";
+let z = "100";
+console.log("Divide : " + x/y);
+console.log("Divide : " + y/z);
+console.log("Multiply : " + x*y);
+console.log("Multiply : " + z*y);
+console.log("Substract : " + x-y);
+console.log("Addition : " + x+y);
+console.log("Addition : " + z+y);
